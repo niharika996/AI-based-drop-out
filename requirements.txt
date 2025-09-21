@@ -1,0 +1,7 @@
+Flask
+flask-pymongo
+pandas
+scikit-learn
+matplotlib
+seaborn
+python-dotenv
